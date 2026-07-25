@@ -15,9 +15,11 @@ I care about the full chain, not just the model or the chart at the end.
 Structural analysis of workforce aging and demographic change using CBS Aruba
 data. Python · pandas · Jupyter · CI pipeline · Makefile.
 
-**[Neighborhoods of The Hague (2016–2024)](https://github.com/GirelliG-it/den_haag_wijken)**
-Demographic composition by migration background and gender across Den Haag
-wijken. R · RStudio · Quarto · open municipal data.
+**[Dataset-prober](https://github.com/GirelliG-it/dataset-prober)**
+A Python tool that probes, discovers, and downloads open datasets using DuckDB httpfs and agentic AI.
+Supports both cloud (Claude) and local (Ollama) models. (Still in development.)
+
+
 
 ---
 
@@ -40,7 +42,10 @@ Foundational tools compound in value; I invest in learning them deeply.
 
 ---
 
-## Links
+## Personal links
 
-- [LinkedIn](https://www.linkedin.com/in/giovanni-girelli-it)
 - [Kaggle](https://www.kaggle.com/giovannigirelli)
+
+
+### Laal- en tetterkunde
+### 13373
