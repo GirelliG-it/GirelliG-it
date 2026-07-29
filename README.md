@@ -46,14 +46,14 @@ A structured curriculum in C.
 
 ## Stack
 
-**Languages** — Python, R, SQL
-**Data** — DuckDB, pandas
-**Notebooks & publishing** — Jupyter, RStudio, Quarto
-**Testing & tooling** — pytest, Ruff, GitHub Actions, Make
-**Models** — Anthropic API, Ollama (local)
-**Shell** — zsh, sed, awk, pwsh
-**Infrastructure** — CentOS Stream 10, Miniconda, Google Cloud SDK
-**Version control** — Git, GitHub
+**Languages** — Python, R, SQL  
+**Data** — DuckDB, pandas  
+**Notebooks & publishing** — Jupyter, RStudio, Quarto  
+**Testing & tooling** — pytest, Ruff, GitHub Actions, Make  
+**Models** — Anthropic API, Ollama (local)  
+**Shell** — zsh, sed, awk, pwsh  
+**Infrastructure** — CentOS Stream 10, Miniconda, Google Cloud SDK  
+**Version control** — Git, GitHub  
 
 ---
 
