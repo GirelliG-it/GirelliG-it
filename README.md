@@ -1,7 +1,5 @@
 # Giovanni Girelli
 
-Data engineering and data analysis with a passion for automation and reproducibility.
-
 I believe honest data analysis is one of the most concrete ways to improve how people live. Open data is where that belief becomes work — it's where structural change happens: in lawmaking, in policy, in the everyday decisions that shape ordinary lives. My focus is analysis that serves civic wellbeing, not commercial metrics.
 
 Based in The Hague — open to data roles in the Dutch public sector.
@@ -18,24 +16,6 @@ row counts, and freshness without pulling files locally. Profile-driven
 discovery across Dutch, EU, US, and global catalogs; explicit consent required
 before anything is written to disk.
 Python · DuckDB · Anthropic API · pytest · GitHub Actions.
-
-**[copilot-sql-harness](https://github.com/GirelliG-it/copilot-sql-harness)**
-
-Sets out to answer the question: "Can GitHub Copilot be deployed effectively
-and responsibly for SQL development?" Covers: correctness, quality, performance,
-context-awareness, security, workflow fit.
-
-## Data analysis projects
-
-**[aruba_population_analyses](https://github.com/GirelliG-it/aruba_population_analyses)**
-
-Explores structural demographic changes in Aruba between 2015 and 2023, with a
-specific focus on workforce aging and its broader societal implications.
-
-**[den_haag_wijken](https://github.com/GirelliG-it/den_haag_wijken)**
-
-Demographic composition of city areas and neighborhoods in The Hague using
-municipal data from between 2016 and 2024.
 
 ---
 
