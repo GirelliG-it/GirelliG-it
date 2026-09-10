@@ -1,8 +1,8 @@
 # Giovanni Girelli
 
-I believe honest data analysis is one of the most concrete ways to improve how people live. Open data is where that belief becomes work — it's where structural change happens: in lawmaking, in policy, in the everyday decisions that shape ordinary lives. My focus is analysis that serves civic wellbeing, not commercial metrics.
+I have a background in procurement and logistics and am working towards a junior data engineering role. I’m developing my skills through practical projects with Python, SQL and open data, focusing on reproducible pipelines, data validation and tested software.
 
-Based in The Hague — open to data roles in the Dutch public sector.
+Based in The Hague, I’m looking for an opportunity to contribute my domain experience, tackle technical problems and grow alongside experienced engineers. I’m particularly interested in work that supports public services and informed decision-making.
 
 ---
 
@@ -16,6 +16,12 @@ row counts, and freshness without pulling files locally. Profile-driven
 discovery across Dutch, EU, US, and global catalogs; explicit consent required
 before anything is written to disk.
 Python · DuckDB · Anthropic API · pytest · GitHub Actions.
+
+[sql-open-data-lab](https://github.com/GirelliG-it/sql-open-data-lab)
+
+The aim of this project is to study and build a production-oriented pipeline focused on ingestion, validation, transformation and SQL analysis. In this case study the main focus will be analysing and processing Dutch seaport cargo volumes from the official CBS StatLine Dataportal. The current status is planning and initial data exploration.
+
+The emphasis is on understanding the relational model, predicting database behavior, designing reliable schemas, and verifying claims with executable SQL.
 
 ---
 
@@ -56,7 +62,8 @@ Provenance matters: where data came from, and when, is part of the result.
 
 ---
 
-## Links
+# Links
 
+- [LinkedIn](www.linkedin.com/in/giovanni-girelli-data)
 - [Kaggle](https://www.kaggle.com/giovannigirelli)
 - Email: nutmeg-pox-geiger@duck.com
