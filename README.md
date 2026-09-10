@@ -12,7 +12,7 @@ Based in The Hague, I’m looking for an opportunity to contribute my domain exp
 
 A Python command-line tool for inspecting open-data resources and optionally loading approved data into DuckDB. The current release supports CSV and CBS/OData inspection, with explicit approval before database loading and protection against overwriting existing tables.
 
-The project demonstrates Python packaging, data validation, transactional loading, automated testing and continuous integration.
+The project demonstrates Python packaging, data validation, transactional loading, automated testing and continuous integration. (Project is ongoing.)
 
 Python · DuckDB · pytest · Ruff · GitHub Actions
 
