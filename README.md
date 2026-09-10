@@ -8,14 +8,13 @@ Based in The Hague, I’m looking for an opportunity to contribute my domain exp
 
 ## Data engineering projects
 
-**[dataset-prober](https://github.com/GirelliG-it/dataset-prober)**
+**[dataset-prober](https://github.com/GirelliG-it/dataset-prober)** — Released v0.1.0
 
-Inspect open datasets before committing to download them. Queries remote CSV,
-JSON, and Parquet sources through DuckDB's httpfs extension to report schema,
-row counts, and freshness without pulling files locally. Profile-driven
-discovery across Dutch, EU, US, and global catalogs; explicit consent required
-before anything is written to disk.
-Python · DuckDB · Anthropic API · pytest · GitHub Actions.
+A Python command-line tool for inspecting open-data resources and optionally loading approved data into DuckDB. The current release supports CSV and CBS/OData inspection, with explicit approval before database loading and protection against overwriting existing tables.
+
+The project demonstrates Python packaging, data validation, transactional loading, automated testing and continuous integration.
+
+Python · DuckDB · pytest · Ruff · GitHub Actions
 
 [sql-open-data-lab](https://github.com/GirelliG-it/sql-open-data-lab)
 
