@@ -16,11 +16,9 @@ The project demonstrates Python packaging, data validation, transactional loadin
 
 Python · DuckDB · pytest · Ruff · GitHub Actions
 
-[sql-open-data-lab](https://github.com/GirelliG-it/sql-open-data-lab)
+**[sql-open-data-lab](https://github.com/GirelliG-it/sql-open-data-lab)** — In development
 
-The aim of this project is to study and build a production-oriented pipeline focused on ingestion, validation, transformation and SQL analysis. In this case study the main focus will be analysing and processing Dutch seaport cargo volumes from the official CBS StatLine Dataportal. The current status is planning and initial data exploration.
-
-The emphasis is on understanding the relational model, predicting database behavior, designing reliable schemas, and verifying claims with executable SQL.
+A planned SQL-focused pipeline using CBS data and DuckDB to analyse changes in Dutch seaport cargo volumes. The analysis will help identify ports and cargo categories with persistent declines that warrant further investigation.
 
 ---
 
@@ -36,20 +34,16 @@ Working through the classic Unix text-processing tools: ed, sed, awk, grep.
 **[c-projects](https://github.com/GirelliG-it/c-projects)**
 
 Learning the C programming language through a structured series of small,
-hands-on project including PowerShell equivalents.
+hands-on projects including PowerShell equivalents.
 
 ---
 
-## Stack
+## Tools I use and am learning
 
-**Languages** — Python, R, SQL  
-**Data** — DuckDB, pandas  
-**Notebooks & publishing** — Jupyter, RStudio, Quarto  
-**Testing & tooling** — pytest, Ruff, GitHub Actions, Make  
-**Models** — Anthropic API, Ollama (local)  
-**Shell** — zsh, sed, awk, pwsh  
-**Infrastructure** — CentOS Stream 10, Miniconda, Google Cloud SDK  
-**Version control** — Git, GitHub  
+- **Project work** — Python, DuckDB, pytest, Ruff, GitHub Actions, Git
+- **Current learning focus** — SQL, relational modelling and data pipelines
+- **Development environment** — Linux, zsh, Miniconda
+- **Additional experience** — R, pandas, Jupyter, RStudio and Quarto
 
 ---
 
@@ -61,8 +55,8 @@ Provenance matters: where data came from, and when, is part of the result.
 
 ---
 
-# Links
+## Links
 
-- [LinkedIn](www.linkedin.com/in/giovanni-girelli-data)
+- [LinkedIn](https://www.linkedin.com/in/giovanni-girelli-data)
 - [Kaggle](https://www.kaggle.com/giovannigirelli)
 - Email: nutmeg-pox-geiger@duck.com
