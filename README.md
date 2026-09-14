@@ -16,9 +16,9 @@ The project demonstrates Python packaging, data validation, transactional loadin
 
 Python · DuckDB · pytest · Ruff · GitHub Actions
 
-**[sql-open-data-lab](https://github.com/GirelliG-it/sql-open-data-lab)** — In development
+**[github-copilot-sql-lab](https://github.com/GirelliG-it/github-copilot-sql-lab)**
 
-A planned SQL-focused pipeline using CBS data and DuckDB to analyse changes in Dutch seaport cargo volumes. The analysis will help identify ports and cargo categories with persistent declines that warrant further investigation.
+The aim of this project is to study and build a production-oriented pipeline focused on ingestion, validation, transformation and SQL analysis. In this case study the main focus will be analysing and processing Dutch seaport cargo volumes from the official CBS StatLine Dataportal. The current status is planning and initial data exploration.
 
 ---
 
